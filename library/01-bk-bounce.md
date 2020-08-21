@@ -15,5 +15,5 @@ permalink: bk-bounce
 ## More
 
 {% include youtubePlayer.html id="6aGphwR55rQ" %}
-{% include youtubePlayer.html id="Axy5wsBC4hI" %}
 
+{% include youtubePlayer.html id="Axy5wsBC4hI" %}
