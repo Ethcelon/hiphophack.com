@@ -3,7 +3,7 @@ layout: default
 title: Library
 nav_order: 2
 has_children: true
-permalink: /move-library/
+permalink: move-library
 ---
 
 # Library
