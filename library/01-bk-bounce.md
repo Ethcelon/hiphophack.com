@@ -10,12 +10,10 @@ permalink: bk-bounce
 
 ## Learn
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PFcFQA2ITr0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+{% include youtubePlayer.html id=PFcFQA2ITr0 %}
 
 ## More
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6aGphwR55rQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubePlayer.html id=6aGphwR55rQ %}
+{% include youtubePlayer.html id=Axy5wsBC4hI %}
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Axy5wsBC4hI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
