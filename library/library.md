@@ -2,7 +2,7 @@
 layout: default
 title: Library
 description: "hiphophack's dance library"
-nav_order: 1
+nav_order: 2
 has_children: true
 permalink: /library
 ---
