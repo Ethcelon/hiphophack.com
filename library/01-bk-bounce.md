@@ -3,7 +3,7 @@ layout: default
 title: BK Bounce
 parent: Library
 nav_order: 1
-permalink: bk-bounce
+permalink: library/bk-bounce
 ---
 
 # BK BOUNCE
