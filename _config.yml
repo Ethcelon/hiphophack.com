@@ -31,9 +31,9 @@ search:
   # Supports true or false (default)
   button: false
   
- aux_links:
-  "My Instagram":
-    - "https://www.instagram.com/hiphophack.om"
+aux_links:
+"My Instagram":
+  - "https://www.instagram.com/hiphophack.om"
     
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
