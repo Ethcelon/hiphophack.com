@@ -10,10 +10,10 @@ permalink: bk-bounce
 
 ## Learn
 
-{% include youtubePlayer.html id=PFcFQA2ITr0 %}
+{% include youtubePlayer.html id="PFcFQA2ITr0" %}
 
 ## More
 
-{% include youtubePlayer.html id=6aGphwR55rQ %}
-{% include youtubePlayer.html id=Axy5wsBC4hI %}
+{% include youtubePlayer.html id="6aGphwR55rQ" %}
+{% include youtubePlayer.html id="Axy5wsBC4hI" %}
 
