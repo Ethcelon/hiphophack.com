@@ -7,3 +7,5 @@ permalink: /
 ---
 
 Find me on [Instagram](https://www.instagram.com/hiphophack.om "hiphophack.om").
+
+See the [Library](library.md "Library").
