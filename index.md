@@ -6,4 +6,4 @@ description: "hiphophack.om's website."
 permalink: /
 ---
 
-Find me on [Instagram]("https://www.instagram.com/hiphophack.om").
+Find me on [Instagram](https://www.instagram.com/hiphophack.om "hiphophack.om").
