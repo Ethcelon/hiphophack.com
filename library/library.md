@@ -4,7 +4,7 @@ title: Library
 description: "hiphophack's dance library"
 nav_order: 1
 has_children: true
-permalink: /
+permalink: /library
 ---
 
 # Library
